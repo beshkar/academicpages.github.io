@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Mostafa Beshkar"
   avatar           : "profile.png"# "MostafaBeshkar.jpg"
-  bio              : "Associate Professor of Economics at Indiana University"
+  bio              : "Associate Professor of Economics"
   location         : 
-  employer         :
+  employer         : "Indiana University"
   googlescholar    : "https://scholar.google.com/citations?user=xDIrqmEAAAAJ&hl=en"
   email            : "mbeshkar@iu.edu"
   uri              :
