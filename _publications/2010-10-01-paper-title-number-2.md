@@ -5,6 +5,8 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Efficient trade deals should make import market power irrelevant to negotiated tariffs, but there is a correlation. This article examines two hypotheses.'
 date: 2022-07-01
 venue: 'Journal of International Economics'
+[Download paper here](https://doi.org/10.1016/j.jinteco.2022.103580)
+
 paperurl: 'https://doi.org/10.1016/j.jinteco.2022.103580'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
